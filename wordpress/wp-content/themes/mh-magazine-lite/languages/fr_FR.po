@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine lite v1.8.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-30 17:16+0200\n"
+"Last-Translator: Michael Hebenstreit <mail@michael-hebenstreit.com>\n"
+"Language-Team: Olivier Copetto <olivier@copetto.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-magazine-lite
+#: content.php:6 includes/mh-widgets.php:90 loop.php:14
+msgid "0 Comments"
+msgstr "0 commentaire"
+
+# @ mh-magazine-lite
+#: content.php:6 includes/mh-widgets.php:90 loop.php:14
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+# @ mh-magazine-lite
+#: content.php:6 includes/mh-widgets.php:90 loop.php:14
+msgid "% Comments"
+msgstr "% commentaires"
+
+# @ mh-magazine-lite
+#: comments.php:17 functions.php:400 functions.php:407
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-magazine-lite
+#: comments.php:17 functions.php:400 functions.php:407
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-magazine-lite
+#: comments.php:36
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+# @ mh-magazine-lite
+#: comments.php:37
+msgid "Your email address will not be published."
+msgstr "Votre adresse de messagerie ne sera pas publi&eacute;e."
+
+# @ mh-magazine-lite
+#: comments.php:9 comments.php:39
+msgid "Comment"
+msgstr "Commentaire"
+
+# @ mh-magazine-lite
+#: functions.php:57
+msgid "Main Navigation"
+msgstr "Menu Principal"
+
+# @ mh-magazine-lite
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Barre lat&eacute;rale"
+
+# @ mh-magazine-lite
+#: functions.php:99
+msgid "Home 1"
+msgstr "Accueil 1"
+
+# @ mh-magazine-lite
+#: functions.php:99 functions.php:100 functions.php:101 functions.php:102
+#: functions.php:103
+msgid "Widget area on homepage"
+msgstr "Zone de Widget sur la page d'accueil"
+
+# @ mh-magazine-lite
+#: functions.php:100
+msgid "Home 2"
+msgstr "Accueil 2"
+
+# @ mh-magazine-lite
+#: functions.php:101
+msgid "Home 3"
+msgstr "Accueil 3"
+
+# @ mh-magazine-lite
+#: functions.php:102
+msgid "Home 4"
+msgstr "Accueil 4"
+
+# @ mh-magazine-lite
+#: functions.php:103
+msgid "Home 5"
+msgstr "Accueil 5"
+
+# @ mh-magazine-lite
+#: functions.php:106
+msgid "Footer 1"
+msgstr "Pied de page 1"
+
+# @ mh-magazine-lite
+#: functions.php:107
+msgid "Footer 2"
+msgstr "Pied de page 2"
+
+# @ mh-magazine-lite
+#: functions.php:108
+msgid "Footer 3"
+msgstr "Pied de page 3"
+
+# @ mh-magazine-lite
+#: functions.php:109
+msgid "Footer 4"
+msgstr "Pied de page 4"
+
+# @ mh-magazine-lite
+#: functions.php:361
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s &aacute; %2$s"
+
+# @ mh-magazine-lite
+#: functions.php:365
+msgid "(Edit)"
+msgstr "(&Eacute;diter)"
+
+# @ mh-magazine-lite
+#: functions.php:368
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de mod&eacute;ration."
+
+# @ mh-magazine-lite
+#: functions.php:385
+msgid "Name "
+msgstr "Nom "
+
+# @ mh-magazine-lite
+#: functions.php:386
+msgid "Email "
+msgstr "Courriel "
+
+# @ mh-magazine-lite
+#: functions.php:387
+msgid "Website"
+msgstr "Site web"
+
+# @ mh-magazine-lite
+#: content-none.php:12
+msgid "Search"
+msgstr "Rechercher"
+
+# @ mh-magazine-lite
+#: content.php:6
+msgid " in "
+msgstr " dans "
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:44 includes/mh-widgets.php:113
+msgid "Title:"
+msgstr "Titre :"
+
+# @ mh-magazine-lite
+#: comments.php:10
+msgid " on "
+msgstr " le "
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:36
+msgid "General Options"
+msgstr "Options générales"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:55 includes/mh-options.php:81
+msgid "Left"
+msgstr "Gauche"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:55 includes/mh-options.php:82
+msgid "Right"
+msgstr "Droit"
+
+# @ mh-magazine-lite
+#: content.php:6
+msgid " by "
+msgstr " par "
+
+# @ mh-magazine-lite
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+# @ mh-magazine-lite
+#: admin/admin.php:84
+msgid "Subheading (will be displayed below post title)"
+msgstr "Sous-titre (sera affiché sous le titre de l'article)"
+
+# @ mh-magazine-lite
+#: functions.php:250
+msgid "About "
+msgstr "A propos "
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:60
+msgid "Scale background image to full size"
+msgstr "Echelle de l'image de fond à taille réelle"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:56
+msgid "Disable author box on posts/archives"
+msgstr "Désactiver la boite de l'auteur sur les articles/archives"
+
+# @ mh-magazine-lite
+#: searchform.php:3
+msgid "To search, type and hit enter"
+msgstr "Pour rechercher, saisir et valider"
+
+# @ mh-magazine-lite
+#: comments.php:9
+msgid "Comments"
+msgstr "Commentaires"
+
+# @ mh-magazine-lite
+#: comments.php:23
+msgid "Trackbacks & Pingbacks"
+msgstr "Trackbacks & Pingbacks"
+
+# @ mh-magazine-lite
+#: content-none.php:5
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Nous vous conseillons de réessayer avec des mots différents."
+
+# @ mh-magazine-lite
+#: content-none.php:9
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne pouvons pas trouver ce que vous cherchez. Peut-être que cette recherche peut vous aider."
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:57
+msgid "Enable comments on pages"
+msgstr "Activer les commentaires sur les pages "
+
+# @ mh-magazine-lite
+#: functions.php:185
+msgid "Page not found (404)"
+msgstr "Page non trouvée (404)"
+
+# @ mh-magazine-lite
+#: functions.php:285
+msgid "&larr; Previous image"
+msgstr "&larr; Image précédente"
+
+# @ mh-magazine-lite
+#: functions.php:295
+msgid "Next image &rarr;"
+msgstr "Image suivante &rarr;"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:58
+msgid "Enable post / attachment navigation"
+msgstr "Activer la navigation dans l'article"
+
+# @ mh-magazine-lite
+#: functions.php:98
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr "Zone de Widget (barre latérale gauche/droite) sur les uniques articles, pages et archives"
+
+# @ mh-magazine-lite
+#: functions.php:104
+msgid "Posts 1"
+msgstr "Articles 1"
+
+# @ mh-magazine-lite
+#: functions.php:104
+msgid "Widget area above single post content"
+msgstr "Zone de Widget dessus l'unique contenu d'article"
+
+# @ mh-magazine-lite
+#: functions.php:105
+msgid "Posts 2"
+msgstr "Articles 2 "
+
+# @ mh-magazine-lite
+#: functions.php:105
+msgid "Widget area below single post content"
+msgstr "Zone de Widget dessous l'unique contenu d'article"
+
+# @ mh-magazine-lite
+#: functions.php:106 functions.php:107 functions.php:108 functions.php:109
+msgid "Widget area in footer"
+msgstr "Zone de Widget dans le pied de page"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:37
+msgid "Layout Options"
+msgstr "Options du modèle"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:55
+msgid "Position of default sidebar"
+msgstr "Position par défaut de la barre latérale"
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:54
+msgid "Custom excerpt more text"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:117 includes/mh-widgets.php:211
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:119 includes/mh-widgets.php:213
+msgid "All"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:132 includes/mh-widgets.php:226
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:136 includes/mh-widgets.php:230
+msgid "Show:"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:137 includes/mh-widgets.php:141
+#: includes/mh-widgets.php:231 includes/mh-widgets.php:235
+msgid "Posts"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:140 includes/mh-widgets.php:234
+msgid "Skip:"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:145 includes/mh-widgets.php:239
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:283
+msgid "&larr; Back to article"
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:288
+msgid "&larr; Previous article"
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:297
+msgid "Next article &rarr;"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:74
+msgid "Post Options"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:18
+msgid "MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:51
+msgid "With this widget you can earn money by promoting WordPress themes by MH Themes. If you do not have a Creative Market Username yet, please visit our"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:51
+msgid "infopage for affiliates"
+msgstr ""
+
+# @ mh-magazine-lite
+#: content-none.php:16
+msgid "Recent Articles"
+msgstr ""
+
+# @ mh-magazine-lite
+#: content.php:6
+msgid "Posted on "
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:61
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:148 includes/mh-widgets.php:242
+msgid "This is the Lite Version of this widget with only basic features. If you need more features and options, you can upgrade to the premium version of this theme."
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:159
+msgid "Slider widget for use on homepage template."
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:171
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:179
+msgid "Archives"
+msgstr ""
+
+# @ mh-magazine-lite
+#: functions.php:187
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:7
+msgid "Welcome to MH Magazine lite"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:16
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:20
+msgid "Important Links:"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:21
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:22
+msgid "Support Center"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:23
+msgid "Rate this theme"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:28
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:32
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:33
+#, php-format
+msgid "Need any help to setup and configure %s? Please have a look at the instructions on the Theme Info Page or read the Documentations and Tutorials in our Support Center."
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:35
+msgid "Visit Documentation"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:39 includes/mh-options.php:32
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:40
+#, php-format
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:42
+msgid "Customize Theme"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:46 includes/mh-options.php:38
+msgid "Upgrade to Premium"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:47
+msgid "Need more features and options? Check out the Premium Version of this theme which comes with additional features and advanced customization options for your website."
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:49
+msgid "Learn more about the Premium Version"
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:60
+#, php-format
+msgid "%1s is proudly brought to you by %2s. If you like this WordPress theme, %3s."
+msgstr ""
+
+# @ mh-magazine-lite
+#: admin/admin.php:63
+msgid "rate it"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:48
+msgid "Creative Market Username:"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:14
+msgid "Need more features and options?"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:19
+msgid "If you run an awesome website and need more advanced features, options and custom widgets, you can upgrade to the premium version of this theme which comes with great additional features to customize your website."
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:24
+msgid "Click here for premium features"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:17
+msgctxt "widget name"
+msgid "MH Affiliate Widget"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:60
+msgctxt "widget name"
+msgid "MH Custom Posts [lite]"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-widgets.php:158
+msgctxt "widget name"
+msgid "MH Slider Widget [lite]"
+msgstr ""
+
+# @ mh-magazine-lite
+#: includes/mh-options.php:53
+msgid "Custom excerpt length in words"
+msgstr ""

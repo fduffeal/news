@@ -1,0 +1,2402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensible WP v1.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-28 16:22:39+0000\n"
+"Last-Translator: robbie <contact@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#@ sensible-wp
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Не удается найти эту страницу."
+
+#: 404.php:27
+#@ sensible-wp
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может быть, попробовать один из приведенных ниже ссылок или Поиск?"
+
+#: 404.php:35
+#@ sensible-wp
+msgid "Most Used Categories"
+msgstr "Наиболее часто используемые категории"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+#, php-format
+#@ sensible-wp
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивов. %1$s"
+
+#: archive.php:33
+#: inc/template-tags.php:143
+#, php-format
+#@ sensible-wp
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:36
+#: inc/template-tags.php:149
+#, php-format
+#@ sensible-wp
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:39
+#: inc/template-tags.php:147
+#, php-format
+#@ sensible-wp
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:39
+#: inc/template-tags.php:147
+#@ sensible-wp
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:42
+#: inc/template-tags.php:145
+#, php-format
+#@ sensible-wp
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:42
+#: inc/template-tags.php:145
+#@ sensible-wp
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:45
+#@ sensible-wp
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:48
+#@ sensible-wp
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:51
+#@ sensible-wp
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:54
+#@ sensible-wp
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:57
+#@ sensible-wp
+msgid "Quotes"
+msgstr "Котировки"
+
+#: archive.php:60
+#@ sensible-wp
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:63
+#@ sensible-wp
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:66
+#@ sensible-wp
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:69
+#@ sensible-wp
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:72
+#: inc/template-tags.php:177
+#@ sensible-wp
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:28
+#, php-format
+#@ sensible-wp
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одна мысль о «%2$s»"
+msgstr[1] "%1$s мысли о «%2$s»"
+msgstr[2] ""
+
+#: comments.php:35
+#: comments.php:52
+#@ sensible-wp
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: comments.php:36
+#: comments.php:53
+#@ sensible-wp
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:37
+#: comments.php:54
+#@ sensible-wp
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:64
+#@ sensible-wp
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-none.php:13
+#@ sensible-wp
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+#, php-format
+#@ sensible-wp
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+#@ sensible-wp
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствует условиям поиска. Пожалуйста, попробуйте еще раз с несколько различных ключевых слов."
+
+#: content-none.php:28
+#@ sensible-wp
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: content-page.php:15
+#: content-single.php:13
+#: content.php:41
+#@ sensible-wp
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: content-page.php:22
+#: inc/template-tags.php:122
+#@ sensible-wp
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content.php:33
+#: content.php:35
+#@ sensible-wp
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\\\"meta-nav\\\">→</span>"
+
+#: footer.php:147
+#@ sensible-wp
+msgid "fa-map-marker"
+msgstr ""
+
+#: footer.php:168
+#@ sensible-wp
+msgid "fa-mobile"
+msgstr ""
+
+#: footer.php:189
+#@ sensible-wp
+msgid "fa-envelope-o"
+msgstr ""
+
+#: footer.php:218
+#, php-format
+#@ sensible-wp
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:54
+#@ sensible-wp
+msgid "Primary Menu"
+msgstr "Основного меню"
+
+#: functions.php:81
+#@ sensible-wp
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:91
+#@ sensible-wp
+msgid "Home Widget"
+msgstr "Дома виджет"
+
+#: functions.php:93
+#@ sensible-wp
+msgid "The widget area for your home page."
+msgstr "Области виджет для вашей домашней страницы."
+
+#: header.php:22
+#@ sensible-wp
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:32
+#@ sensible-wp
+msgid "200"
+msgstr ""
+
+#: header.php:49
+#@ sensible-wp
+msgid "<i class=\"fa fa-bars\"></i> Menu"
+msgstr ""
+
+#: header.php:59
+#@ sensible-wp
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer.php:25
+#@ sensible-wp
+msgid "Sensible Pro"
+msgstr "Разумный Pro"
+
+#: inc/customizer.php:49
+#@ sensible-wp
+msgid "Google Fonts"
+msgstr "Google шрифты"
+
+#: inc/customizer.php:119
+#@ sensible-wp
+msgid "Select your desired font for the headings. Open Sans is the default Heading font."
+msgstr "Выберите нужный шрифт для заголовков. Открытые Sans является шрифт заголовка по умолчанию."
+
+#: inc/customizer.php:135
+#@ sensible-wp
+msgid "Select your desired font for the body. Open Sans is the default Body font."
+msgstr "Выберите нужный шрифт для тела. Открытые Sans — тела шрифт по умолчанию."
+
+#: inc/customizer.php:147
+#@ sensible-wp
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer.php:159
+#@ sensible-wp
+msgid "Link Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer.php:171
+#@ sensible-wp
+msgid "Hover Color"
+msgstr "Цвет при наведении мыши"
+
+#: inc/customizer.php:183
+#@ sensible-wp
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/customizer.php:195
+#@ sensible-wp
+msgid "Theme Hover Color"
+msgstr "Цвет темы при наведении"
+
+#: inc/customizer.php:207
+#@ sensible-wp
+msgid "Site Title Color"
+msgstr "Цвет заголовка сайта"
+
+#: inc/customizer.php:219
+#@ sensible-wp
+msgid "Blockquote Background"
+msgstr "Цитата фон"
+
+#: inc/customizer.php:231
+#@ sensible-wp
+msgid "Blockquote Accent Color"
+msgstr "Цитата контрастный цвет"
+
+#: inc/customizer.php:243
+#@ sensible-wp
+msgid "Entry Title Color"
+msgstr "Цвет заголовка записи"
+
+#: inc/customizer.php:262
+#@ sensible-wp
+msgid "Navigation Link Color"
+msgstr "Цвет ссылки навигации"
+
+#: inc/customizer.php:274
+#@ sensible-wp
+msgid "Navigation Link Hover Color"
+msgstr "Цвет при наведении ссылки навигации"
+
+#: inc/customizer.php:286
+#@ sensible-wp
+msgid "Menu Drop Down Link Color"
+msgstr "Меню падения вниз цвет ссылок"
+
+#: inc/customizer.php:294
+#@ sensible-wp
+msgid "Animations"
+msgstr "Анимация"
+
+#: inc/customizer.php:296
+#@ sensible-wp
+msgid "We can make things fly across the screen."
+msgstr "Мы можем сделать вещи летают по экрану."
+
+#: inc/customizer.php:310
+#@ sensible-wp
+msgid "Check this box if you want to disable the animations."
+msgstr "Установите этот флажок, если вы хотите отключить анимацию."
+
+#: inc/customizer.php:317
+#@ sensible-wp
+msgid "Logo and Icons"
+msgstr "Логотип и иконки"
+
+#: inc/customizer.php:319
+#@ sensible-wp
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr "Загрузите логотип для замены по умолчанию имя и описание в заголовке. Кроме того Загрузите ваш сайт значок и Apple иконы."
+
+#: inc/customizer.php:327
+#@ sensible-wp
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:341
+#@ sensible-wp
+msgid "Change the width of the Logo in PX."
+msgstr "Изменение ширины логотипа в PX."
+
+#: inc/customizer.php:342
+#@ sensible-wp
+msgid "Only enter numeric value"
+msgstr "Только введите числовое значение"
+
+#: inc/customizer.php:361
+#@ sensible-wp
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Загрузить свой значок (16 x 16 пикселей)"
+
+#: inc/customizer.php:381
+#@ sensible-wp
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Загрузить значок Apple Touch (144 x 144 пикселей)"
+
+#: inc/customizer.php:401
+#@ sensible-wp
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Загрузить значок Apple Touch (114 x 114 пикселей)"
+
+#: inc/customizer.php:421
+#@ sensible-wp
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Загрузить значок Apple Touch (72 x 72 пикселей)"
+
+#: inc/customizer.php:441
+#@ sensible-wp
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Загрузить значок Apple Touch (57 x 57 пикселей)"
+
+#: inc/customizer.php:450
+#@ sensible-wp
+msgid "Home Hero Section"
+msgstr "Главная герой раздел"
+
+#: inc/customizer.php:452
+#@ sensible-wp
+msgid "Edit your Home Page Hero"
+msgstr "Редактировать ваш герой Домашняя страница"
+
+#: inc/customizer.php:464
+#@ sensible-wp
+msgid "Hide Hero"
+msgstr "Скрыть герой"
+
+#: inc/customizer.php:475
+#@ sensible-wp
+msgid "Hero Image"
+msgstr "Образ героя"
+
+#: inc/customizer.php:489
+#@ sensible-wp
+msgid "Hero Heading"
+msgstr "Герой заголовок"
+
+#: inc/customizer.php:503
+#@ sensible-wp
+msgid "Hero Button Text"
+msgstr "Текст кнопки герой"
+
+#: inc/customizer.php:516
+#@ sensible-wp
+msgid "Hero Button URL"
+msgstr "Герой кнопку URL-адрес"
+
+#: inc/customizer.php:528
+#@ sensible-wp
+msgid "Home Social Section"
+msgstr "Дома Социальный раздел"
+
+#: inc/customizer.php:529
+#@ sensible-wp
+msgid "Edit your home page social media icons"
+msgstr "Редактирование вашей домашней страницы Социальный медиа Иконы"
+
+#: inc/customizer.php:540
+#@ sensible-wp
+msgid "External URL Option"
+msgstr "Параметр внешний URL-адрес"
+
+#: inc/customizer.php:541
+#@ sensible-wp
+msgid "If you use an external URL, leave the Widget Button Link above empty. Must include http:// before any URL."
+msgstr "Если вы используете внешний URL-адрес, оставьте ссылку кнопку виджета над пустым. Должен включать http:// перед любой URL-адрес."
+
+#: inc/customizer.php:549
+#@ sensible-wp
+msgid "Social Media Icons"
+msgstr "Социальный медиа Иконы"
+
+#: inc/customizer.php:564
+#@ sensible-wp
+msgid "Hide Home Social Section"
+msgstr "Скрыть дома Социальный раздел"
+
+#: inc/customizer.php:576
+#@ sensible-wp
+msgid "Socials Heading"
+msgstr "Socials заголовок"
+
+#: inc/customizer.php:589
+#@ sensible-wp
+msgid "Social Icon Color"
+msgstr "Цвет значка социальной"
+
+#: inc/customizer.php:601
+#@ sensible-wp
+msgid "Social Icon Hover Color"
+msgstr "Социальная Икона цвет при наведении мыши"
+
+#: inc/customizer.php:614
+#@ sensible-wp
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: inc/customizer.php:627
+#@ sensible-wp
+msgid "Twitter URL:"
+msgstr "Щебетать URL:"
+
+#: inc/customizer.php:640
+#@ sensible-wp
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+#: inc/customizer.php:653
+#@ sensible-wp
+msgid "Google Plus URL:"
+msgstr "URL-адрес Google Plus:"
+
+#: inc/customizer.php:666
+#@ sensible-wp
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: inc/customizer.php:679
+#@ sensible-wp
+msgid "Flickr URL:"
+msgstr ""
+
+#: inc/customizer.php:692
+#@ sensible-wp
+msgid "Pinterest URL:"
+msgstr ""
+
+#: inc/customizer.php:705
+#@ sensible-wp
+msgid "YouTube URL:"
+msgstr ""
+
+#: inc/customizer.php:718
+#@ sensible-wp
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/customizer.php:731
+#@ sensible-wp
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/customizer.php:744
+#@ sensible-wp
+msgid "Dribbble URL:"
+msgstr ""
+
+#: inc/customizer.php:757
+#@ sensible-wp
+msgid "RSS URL:"
+msgstr ""
+
+#: inc/customizer.php:768
+#: inc/customizer.php:774
+#@ sensible-wp
+msgid "Home Intro Section"
+msgstr "Главная вступительный раздел"
+
+#: inc/customizer.php:769
+#@ sensible-wp
+msgid "Edit your home page intro settings"
+msgstr "Изменить настройки домашней страницы intro"
+
+#: inc/customizer.php:776
+#@ sensible-wp
+msgid "Edit your home page Intro section content"
+msgstr "Изменение домашней страницы содержание введение раздел"
+
+#: inc/customizer.php:791
+#@ sensible-wp
+msgid "Hide Home Intro Section"
+msgstr "Скрыть дом вступительный раздел"
+
+#: inc/customizer.php:803
+#@ sensible-wp
+msgid "Intro Title Text"
+msgstr "Интро текст заголовка"
+
+#: inc/customizer.php:816
+#@ sensible-wp
+msgid "Intro Text Box"
+msgstr "Интро текстовое поле"
+
+#: inc/customizer.php:828
+#@ sensible-wp
+msgid "Home Services Section"
+msgstr "Главная секция"
+
+#: inc/customizer.php:829
+#@ sensible-wp
+msgid "Edit your home page Services settings."
+msgstr "Измените параметры Услуги домашней страницы."
+
+#: inc/customizer.php:834
+#@ sensible-wp
+msgid "Home Services Content"
+msgstr "Главная Услуги содержание"
+
+#: inc/customizer.php:836
+#: inc/customizer.php:2083
+#@ sensible-wp
+msgid "Edit your home page Services content."
+msgstr "Редактируйте содержимое Услуги домашней страницы."
+
+#: inc/customizer.php:850
+#@ sensible-wp
+msgid "Hide Services Section"
+msgstr "Скрыть раздел Услуги"
+
+#: inc/customizer.php:863
+#@ sensible-wp
+msgid "Services Title Text"
+msgstr "Текст заголовка услуги"
+
+#: inc/customizer.php:877
+#@ sensible-wp
+msgid "Services Button Text"
+msgstr "Текст кнопки услуги"
+
+#: inc/customizer.php:890
+#@ sensible-wp
+msgid "Service Button URL"
+msgstr "URL-адрес службы кнопки"
+
+#: inc/customizer.php:922
+#@ sensible-wp
+msgid "Services Box 1"
+msgstr "Услуги Box 1"
+
+#: inc/customizer.php:924
+#@ sensible-wp
+msgid "Edit your home page services box 1. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr ""
+
+#: inc/customizer.php:938
+#@ sensible-wp
+msgid "Hide Service Box 1"
+msgstr "Скрыть окно службы 1"
+
+#: inc/customizer.php:950
+#@ sensible-wp
+msgid "Service Icon 1"
+msgstr "Значок службы 1"
+
+#: inc/customizer.php:963
+#@ sensible-wp
+msgid "Service Title 1"
+msgstr "Название услуги 1"
+
+#: inc/customizer.php:976
+#@ sensible-wp
+msgid "Service Text Box 1"
+msgstr "Службы текстового поля 1"
+
+#: inc/customizer.php:985
+#@ sensible-wp
+msgid "Services Box 2"
+msgstr "Услуги вставку 2"
+
+#: inc/customizer.php:987
+#@ sensible-wp
+msgid "Edit your home page services box 2. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr "Редактирование вашей домашней страницы служб поле 2. Выберите любой из <a href=\\\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\\\" target=\\\"_blank\\\">этих значков</a>. Пример: «фа стрелка вправо»."
+
+#: inc/customizer.php:1001
+#@ sensible-wp
+msgid "Hide Service Box 2"
+msgstr "Скрыть окно служба 2"
+
+#: inc/customizer.php:1013
+#@ sensible-wp
+msgid "Service Icon 2"
+msgstr "Значок службы 2"
+
+#: inc/customizer.php:1026
+#@ sensible-wp
+msgid "Service Title 2"
+msgstr "Название услуги 2"
+
+#: inc/customizer.php:1039
+#@ sensible-wp
+msgid "Service Text Box 2"
+msgstr "Службы текстового поля 2"
+
+#: inc/customizer.php:1048
+#@ sensible-wp
+msgid "Services Box 3"
+msgstr "Услуги Box 3"
+
+#: inc/customizer.php:1050
+#@ sensible-wp
+msgid "Edit your home page services box 3. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr "Редактируйте ваш Домашняя страница услуг Вставка 3. Выберите любой из <a href=\\\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\\\" target=\\\"_blank\\\">этих значков</a>. Пример: «фа стрелка вправо»."
+
+#: inc/customizer.php:1064
+#@ sensible-wp
+msgid "Hide Service Box 3"
+msgstr "Скрыть окно Служба 3"
+
+#: inc/customizer.php:1076
+#@ sensible-wp
+msgid "Service Icon 3"
+msgstr "Значок службы 3"
+
+#: inc/customizer.php:1089
+#@ sensible-wp
+msgid "Service Title 3"
+msgstr "Название услуги 3"
+
+#: inc/customizer.php:1102
+#@ sensible-wp
+msgid "Service Text Box 3"
+msgstr "Службы текстового поля 3"
+
+#: inc/customizer.php:1114
+#: inc/customizer.php:1120
+#@ sensible-wp
+msgid "Home Blog Section"
+msgstr "Главная Блог раздел"
+
+#: inc/customizer.php:1115
+#@ sensible-wp
+msgid "Edit your home page blog settings"
+msgstr "Изменить настройки домашней страницы блога"
+
+#: inc/customizer.php:1122
+#@ sensible-wp
+msgid "Edit your home page Blog section"
+msgstr "Изменить вашу домашнюю страницу блога раздела"
+
+#: inc/customizer.php:1135
+#@ sensible-wp
+msgid "Hide Blog Section"
+msgstr "Скрыть раздел блога"
+
+#: inc/customizer.php:1147
+#@ sensible-wp
+msgid "Blog Title Text"
+msgstr "Название блога текст"
+
+#: inc/customizer.php:1159
+#@ sensible-wp
+msgid "Blog Call-to-Action"
+msgstr "Блог призыв к действию"
+
+#: inc/customizer.php:1170
+#@ sensible-wp
+msgid "Home Team Member Section"
+msgstr "Главная Команда член секции"
+
+#: inc/customizer.php:1171
+#@ sensible-wp
+msgid "Edit your home page team member settings"
+msgstr "Изменить настройки домашней страницы члена команды"
+
+#: inc/customizer.php:1176
+#@ sensible-wp
+msgid "Home Team Section"
+msgstr "Раздел Главная Команда"
+
+#: inc/customizer.php:1178
+#@ sensible-wp
+msgid "Edit your home page Team section"
+msgstr "Изменение домашней страницы раздел команда"
+
+#: inc/customizer.php:1191
+#@ sensible-wp
+msgid "Hide Team Section Content"
+msgstr "Скрыть команды содержимое раздела"
+
+#: inc/customizer.php:1203
+#@ sensible-wp
+msgid "Team Title Text"
+msgstr "Текст названия команды"
+
+#: inc/customizer.php:1222
+#@ sensible-wp
+msgid "Team Member Button Text"
+msgstr "Текст кнопки член команды"
+
+#: inc/customizer.php:1235
+#@ sensible-wp
+msgid "Team Member Button URL"
+msgstr "URL-адрес кнопку член команды"
+
+#: inc/customizer.php:1267
+#: inc/customizer.php:2340
+#@ sensible-wp
+msgid "Team Member 1"
+msgstr "Член команды 1"
+
+#: inc/customizer.php:1269
+#@ sensible-wp
+msgid "Edit your Team Member 1"
+msgstr "Редактировать ваш 1 члена команды"
+
+#: inc/customizer.php:1283
+#: inc/customizer.php:2356
+#@ sensible-wp
+msgid "Hide Member Box 1"
+msgstr "Скрыть поле член 1"
+
+#: inc/customizer.php:1294
+#: inc/customizer.php:2367
+#@ sensible-wp
+msgid "Team Member Image 1"
+msgstr "Изображение членов команды 1"
+
+#: inc/customizer.php:1307
+#: inc/customizer.php:2380
+#@ sensible-wp
+msgid "Team Member Name 1"
+msgstr "Имя члена команды 1"
+
+#: inc/customizer.php:1320
+#: inc/customizer.php:2393
+#@ sensible-wp
+msgid "Team Member Text Box 1"
+msgstr "Член команды текстовое поле 1"
+
+#: inc/customizer.php:1334
+#: inc/customizer.php:2407
+#@ sensible-wp
+msgid "Team Member Facebook 1"
+msgstr "Facebook член команды 1"
+
+#: inc/customizer.php:1347
+#: inc/customizer.php:2420
+#@ sensible-wp
+msgid "Team Member Twitter 1"
+msgstr "Twitter член команды 1"
+
+#: inc/customizer.php:1360
+#: inc/customizer.php:2433
+#@ sensible-wp
+msgid "Team Member LinkedIn 1"
+msgstr "LinkedIn членов команды 1"
+
+#: inc/customizer.php:1373
+#: inc/customizer.php:2446
+#@ sensible-wp
+msgid "Team Member Google 1"
+msgstr "Член команды Google 1"
+
+#: inc/customizer.php:1386
+#: inc/customizer.php:2459
+#@ sensible-wp
+msgid "Team Member Email 1"
+msgstr "Электронной почты членов команды 1"
+
+#: inc/customizer.php:1394
+#: inc/customizer.php:2467
+#@ sensible-wp
+msgid "Team Member 2"
+msgstr "Член команды 2"
+
+#: inc/customizer.php:1396
+#: inc/customizer.php:2469
+#@ sensible-wp
+msgid "Edit your Team Member 2"
+msgstr "Редактировать ваши 2 члена команды"
+
+#: inc/customizer.php:1410
+#: inc/customizer.php:2483
+#@ sensible-wp
+msgid "Hide Member Box 2"
+msgstr "Скрыть член поле 2"
+
+#: inc/customizer.php:1421
+#: inc/customizer.php:2494
+#@ sensible-wp
+msgid "Team Member Image 2"
+msgstr "Изображение членов команды 2"
+
+#: inc/customizer.php:1434
+#: inc/customizer.php:2507
+#@ sensible-wp
+msgid "Team Member Name 2"
+msgstr "Имя члена команды 2"
+
+#: inc/customizer.php:1447
+#: inc/customizer.php:2520
+#@ sensible-wp
+msgid "Team Member Text Box 2"
+msgstr "Член команды текстовое поле 2"
+
+#: inc/customizer.php:1461
+#: inc/customizer.php:2534
+#@ sensible-wp
+msgid "Team Member Facebook 2"
+msgstr "Facebook член команды 2"
+
+#: inc/customizer.php:1474
+#: inc/customizer.php:2547
+#@ sensible-wp
+msgid "Team Member Twitter 2"
+msgstr "Twitter член команды 2"
+
+#: inc/customizer.php:1487
+#: inc/customizer.php:2560
+#@ sensible-wp
+msgid "Team Member LinkedIn 2"
+msgstr "LinkedIn членов команды 2"
+
+#: inc/customizer.php:1500
+#: inc/customizer.php:2573
+#@ sensible-wp
+msgid "Team Member Google 2"
+msgstr "Google член команды 2"
+
+#: inc/customizer.php:1513
+#: inc/customizer.php:2586
+#@ sensible-wp
+msgid "Team Member Email 2"
+msgstr "Электронной почты членов команды 2"
+
+#: inc/customizer.php:1521
+#: inc/customizer.php:2594
+#@ sensible-wp
+msgid "Team Member 3"
+msgstr "Член команды 3"
+
+#: inc/customizer.php:1523
+#: inc/customizer.php:2596
+#@ sensible-wp
+msgid "Edit your Team Member 3"
+msgstr "Редактировать ваши 3 члена команды"
+
+#: inc/customizer.php:1537
+#: inc/customizer.php:2610
+#@ sensible-wp
+msgid "Hide Member Box 3"
+msgstr "Скрыть член Box 3"
+
+#: inc/customizer.php:1548
+#: inc/customizer.php:2621
+#@ sensible-wp
+msgid "Team Member Image 3"
+msgstr "Изображение членов команды 3"
+
+#: inc/customizer.php:1561
+#: inc/customizer.php:2634
+#@ sensible-wp
+msgid "Team Member Name 3"
+msgstr "Имя члена команды 3"
+
+#: inc/customizer.php:1574
+#: inc/customizer.php:2647
+#@ sensible-wp
+msgid "Team Member Text Box 3"
+msgstr "Член команды текстовое поле 3"
+
+#: inc/customizer.php:1588
+#: inc/customizer.php:2661
+#@ sensible-wp
+msgid "Team Member Facebook 3"
+msgstr "Facebook член команды 3"
+
+#: inc/customizer.php:1601
+#: inc/customizer.php:2674
+#@ sensible-wp
+msgid "Team Member Twitter 3"
+msgstr "Twitter член команды 3"
+
+#: inc/customizer.php:1614
+#: inc/customizer.php:2687
+#@ sensible-wp
+msgid "Team Member LinkedIn 3"
+msgstr "LinkedIn членов команды 3"
+
+#: inc/customizer.php:1627
+#: inc/customizer.php:2700
+#@ sensible-wp
+msgid "Team Member Google 3"
+msgstr "Google член команды 3"
+
+#: inc/customizer.php:1640
+#: inc/customizer.php:2713
+#@ sensible-wp
+msgid "Team Member Email 3"
+msgstr "Электронной почты членов команды 3"
+
+#: inc/customizer.php:1651
+#: inc/customizer.php:1657
+#@ sensible-wp
+msgid "Home Widget Section"
+msgstr "Раздел дома виджет"
+
+#: inc/customizer.php:1652
+#@ sensible-wp
+msgid "Edit your home page widget settings. The main body of the widget area can be edited under the Widgets section below."
+msgstr "Измените настройки домашней страницы виджета. Основная часть области виджет может быть отредактирован в разделе виджет ниже."
+
+#: inc/customizer.php:1659
+#@ sensible-wp
+msgid "Customize the home widget area. The main body of the widget area can be edited under the Widgets section below."
+msgstr "Настройка области дома виджет. Основная часть области виджет может быть отредактирован в разделе виджет ниже."
+
+#: inc/customizer.php:1670
+#@ sensible-wp
+msgid "Number of Widget Columns"
+msgstr "Количество столбцов, виджет"
+
+#: inc/customizer.php:1671
+#@ sensible-wp
+msgid "Select the number of widget columns to use. 1 Column will take up the entire widget area, while 4 columns will give space to use 4 widgets for content."
+msgstr "Выберите количество столбцов виджет для использования. 1 колонка будет занимать весь виджет области, в то время как 4 колонки даст пространство для использования 4 виджеты для содержимого."
+
+#: inc/customizer.php:1677
+#@ sensible-wp
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: inc/customizer.php:1678
+#@ sensible-wp
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: inc/customizer.php:1679
+#@ sensible-wp
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: inc/customizer.php:1680
+#@ sensible-wp
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: inc/customizer.php:1705
+#@ sensible-wp
+msgid "Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr ""
+
+#: inc/customizer.php:1706
+#@ sensible-wp
+msgid "Widget Icon"
+msgstr "Значок виджета"
+
+#: inc/customizer.php:1722
+#@ sensible-wp
+msgid "Hide Widget Section"
+msgstr "Скрыть виджет раздел"
+
+#: inc/customizer.php:1733
+#@ sensible-wp
+msgid "Widget Button Text"
+msgstr "Текст кнопки виджета"
+
+#: inc/customizer.php:1746
+#@ sensible-wp
+msgid "Widget Button URL"
+msgstr "Виджет кнопку URL-адрес"
+
+#: inc/customizer.php:1758
+#@ sensible-wp
+msgid "Footer Options"
+msgstr "Варианты нижнего колонтитула"
+
+#: inc/customizer.php:1759
+#@ sensible-wp
+msgid "Edit your footer options"
+msgstr "Редактировать ваши варианты нижнего колонтитула"
+
+#: inc/customizer.php:1764
+#@ sensible-wp
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:1766
+#@ sensible-wp
+msgid "Customize your footer area"
+msgstr "Настроить вашу область нижнего колонтитула"
+
+#: inc/customizer.php:1780
+#@ sensible-wp
+msgid "Hide Footer Top Section"
+msgstr "Скрыть верхний колонтитул"
+
+#: inc/customizer.php:1795
+#@ sensible-wp
+msgid "Hide Footer Social Section"
+msgstr "Скрыть социального раздела нижнего колонтитула"
+
+#: inc/customizer.php:1807
+#@ sensible-wp
+msgid "Footer Social Heading"
+msgstr "Социальный заголовок нижнего колонтитула"
+
+#: inc/customizer.php:1821
+#@ sensible-wp
+msgid "Footer Title Text"
+msgstr "Название текст нижнего колонтитула"
+
+#: inc/customizer.php:1834
+#@ sensible-wp
+msgid "First Icon"
+msgstr "Первый значок"
+
+#: inc/customizer.php:1847
+#@ sensible-wp
+msgid "Footer First Text"
+msgstr "Первый текст нижнего колонтитула"
+
+#: inc/customizer.php:1860
+#@ sensible-wp
+msgid "Footer First Column"
+msgstr "Первый столбец нижнего колонтитула"
+
+#: inc/customizer.php:1874
+#@ sensible-wp
+msgid "Second Icon"
+msgstr "Второй значок"
+
+#: inc/customizer.php:1887
+#@ sensible-wp
+msgid "Footer Second Text"
+msgstr "Второй текст нижнего колонтитула"
+
+#: inc/customizer.php:1900
+#@ sensible-wp
+msgid "Footer Second Column"
+msgstr "Второй столбец нижнего колонтитула"
+
+#: inc/customizer.php:1914
+#@ sensible-wp
+msgid "Third Icon"
+msgstr "Третий значок"
+
+#: inc/customizer.php:1927
+#@ sensible-wp
+msgid "Footer Third Text"
+msgstr "Третий текст нижнего колонтитула"
+
+#: inc/customizer.php:1940
+#@ sensible-wp
+msgid "Footer Third Column"
+msgstr "Нижний колонтитул третьего столбца"
+
+#: inc/customizer.php:1954
+#@ sensible-wp
+msgid "Footer Byline Text"
+msgstr "Имя автора текст нижнего колонтитула"
+
+#: inc/customizer.php:1966
+#@ sensible-wp
+msgid "Footer Background Color"
+msgstr "Цвет фона нижнего колонтитула"
+
+#: inc/customizer.php:1978
+#@ sensible-wp
+msgid "Footer Text Color"
+msgstr "Цвет текста нижнего колонтитула"
+
+#: inc/customizer.php:1990
+#@ sensible-wp
+msgid "Footer Link Color"
+msgstr "Цвет колонтитул ссылки"
+
+#: inc/customizer.php:2000
+#@ sensible-wp
+msgid "Change how Sensible displays posts"
+msgstr "Изменить отображение сообщений разумным"
+
+#: inc/customizer.php:2036
+#@ sensible-wp
+msgid "Post content"
+msgstr "Отправить содержание"
+
+#: inc/customizer.php:2059
+#@ sensible-wp
+msgid "Excerpt length"
+msgstr "Длина выдержки"
+
+#: inc/customizer.php:2060
+#@ sensible-wp
+msgid "Choose your excerpt length here. Default: 30 words"
+msgstr "Выберите длину выдержки здесь. По умолчанию: 30 слов"
+
+#: inc/customizer.php:2075
+#@ sensible-wp
+msgid "Services Page Section"
+msgstr "Страница Секции"
+
+#: inc/customizer.php:2076
+#@ sensible-wp
+msgid "Edit your Services page settings."
+msgstr "Редактировать настройки страницы службы."
+
+#: inc/customizer.php:2081
+#@ sensible-wp
+msgid "Services Page Content"
+msgstr "Содержание страницы службы"
+
+#: inc/customizer.php:2112
+#@ sensible-wp
+msgid "Services Page Box 1"
+msgstr "Услуги страница Box 1"
+
+#: inc/customizer.php:2114
+#@ sensible-wp
+msgid "Edit your services page box 1. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr ""
+
+#: inc/customizer.php:2128
+#@ sensible-wp
+msgid "Hide Service Page Box 1"
+msgstr "Скрыть поле страницы службы 1"
+
+#: inc/customizer.php:2140
+#@ sensible-wp
+msgid "Service Page Icon 1"
+msgstr "Значок страницы службы 1"
+
+#: inc/customizer.php:2153
+#@ sensible-wp
+msgid "Service Page Title 1"
+msgstr "Название страницы услуги 1"
+
+#: inc/customizer.php:2166
+#@ sensible-wp
+msgid "Service Page Text Box 1"
+msgstr "Поле текст страницы службы 1"
+
+#: inc/customizer.php:2175
+#@ sensible-wp
+msgid "Services Page Box 2"
+msgstr "Услуги страница вставку 2"
+
+#: inc/customizer.php:2177
+#@ sensible-wp
+msgid "Edit your services page box 2. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr ""
+
+#: inc/customizer.php:2191
+#@ sensible-wp
+msgid "Hide Service Page Box 2"
+msgstr "Скрыть поле страницы службы 2"
+
+#: inc/customizer.php:2203
+#@ sensible-wp
+msgid "Service Page Icon 2"
+msgstr "Значок страницы службы 2"
+
+#: inc/customizer.php:2216
+#@ sensible-wp
+msgid "Service Page Title 2"
+msgstr "Название услуги-страница 2"
+
+#: inc/customizer.php:2229
+#@ sensible-wp
+msgid "Service Page Text Box 2"
+msgstr "Служба страницы надпись 2"
+
+#: inc/customizer.php:2238
+#@ sensible-wp
+msgid "Services Page Box 3"
+msgstr "Услуги страница Box 3"
+
+#: inc/customizer.php:2240
+#@ sensible-wp
+msgid "Edit your services page box 3. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-arrow-right\"."
+msgstr ""
+
+#: inc/customizer.php:2254
+#@ sensible-wp
+msgid "Hide Service Page Box 3"
+msgstr "Скрыть поле страницы службы 3"
+
+#: inc/customizer.php:2266
+#@ sensible-wp
+msgid "Service Page Icon 3"
+msgstr "Значок страницы службы 3"
+
+#: inc/customizer.php:2279
+#@ sensible-wp
+msgid "Service Page Title 3"
+msgstr "Название услуги-страница 3"
+
+#: inc/customizer.php:2292
+#@ sensible-wp
+msgid "Service Page Text Box 3"
+msgstr "Поле текст страницы службы 3"
+
+#: inc/customizer.php:2304
+#@ sensible-wp
+msgid "Team Member Page Section"
+msgstr "Раздел страницы члена команды"
+
+#: inc/customizer.php:2305
+#@ sensible-wp
+msgid "Edit your team member page settings."
+msgstr "Редактировать настройки страницы члена команды."
+
+#: inc/customizer.php:2310
+#@ sensible-wp
+msgid "Team Page Section"
+msgstr "Раздел страница команды"
+
+#: inc/customizer.php:2342
+#@ sensible-wp
+msgid "Edit your page - Team Member 1"
+msgstr "Редактировать ваши страницы - 1 член команды"
+
+#: inc/extras.php:52
+#, php-format
+#@ sensible-wp
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-tags.php:21
+#@ sensible-wp
+msgid "Posts navigation"
+msgstr "Навигационной постов"
+
+#: inc/template-tags.php:25
+#@ sensible-wp
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\\\"meta-nav\\\">←</span> Предыдущая сообщения"
+
+#: inc/template-tags.php:29
+#@ sensible-wp
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые сообщения <span class=\\\"meta-nav\\\">→</span>"
+
+#: inc/template-tags.php:52
+#@ sensible-wp
+msgid "Post navigation"
+msgstr "Пост навигации"
+
+#: inc/template-tags.php:55
+#, php-format
+#@ sensible-wp
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+#@ sensible-wp
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+#@ sensible-wp
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+#@ sensible-wp
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:104
+#: inc/template-tags.php:110
+#@ sensible-wp
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:106
+#, php-format
+#@ sensible-wp
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:112
+#, php-format
+#@ sensible-wp
+msgid "Tagged %1$s"
+msgstr "Меткой %1$s"
+
+#: inc/template-tags.php:118
+#@ sensible-wp
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:118
+#@ sensible-wp
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:118
+#@ sensible-wp
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: inc/template-tags.php:139
+#, php-format
+#@ sensible-wp
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: inc/template-tags.php:141
+#, php-format
+#@ sensible-wp
+msgid "Tag: %s"
+msgstr "Тег: %s"
+
+#: inc/template-tags.php:149
+#@ sensible-wp
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:152
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:154
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/template-tags.php:156
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:158
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:160
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Котировки"
+
+#: inc/template-tags.php:162
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/template-tags.php:164
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:166
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:168
+#@ sensible-wp
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:171
+#, php-format
+#@ sensible-wp
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:175
+#, php-format
+#@ sensible-wp
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: index.php:24
+#@ sensible-wp
+msgid "Blog"
+msgstr "Блог"
+
+#: panel/class-tgm-plugin-activation.php:333
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:334
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:338
+#, php-format
+#@ sensible-wp
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующие плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:368
+#, php-format
+#@ sensible-wp
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Ниже требуется плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:373
+#, php-format
+#@ sensible-wp
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующие рекомендованные плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендованные плагины в настоящее время неактивны: %1$s."
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:353
+#, php-format
+#@ sensible-wp
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:383
+#@ sensible-wp
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:393
+#@ sensible-wp
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активировать плагин"
+msgstr[1] "Начинается активация плагинов"
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:397
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:398
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:399
+#: panel/class-tgm-plugin-activation.php:3034
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:403
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:404
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:833
+#: panel/class-tgm-plugin-activation.php:3443
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2197
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2191
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2172
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2175
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2214
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2218
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2608
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2617
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2441
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2442
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2443
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2448
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:2837
+#: panel/class-tgm-plugin-activation.php:400
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:3033
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3374
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3376
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3380
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3382
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:13
+#@ sensible-wp
+msgid "Sensible Theme Details"
+msgstr "Разумный тема детали"
+
+#: panel/sensiblewp-admin_page.php:18
+#@ sensible-wp
+msgid "Thank you for using Sensible!"
+msgstr "Спасибо за использование разумным!"
+
+#: panel/sensiblewp-admin_page.php:22
+#@ sensible-wp
+msgid "Sensible Theme Setup"
+msgstr "Разумный тема установки"
+
+#: panel/sensiblewp-admin_page.php:26
+#@ sensible-wp
+msgid "We created a quick theme setup video to help you get started with Sensible. Watch the video with the link below."
+msgstr "Мы создали быстро тема установки видео, чтобы помочь вам начать работу с разумным. Смотрите видео по ссылке ниже."
+
+#: panel/sensiblewp-admin_page.php:30
+#@ sensible-wp
+msgid "View Video"
+msgstr "Посмотреть видео"
+
+#: panel/sensiblewp-admin_page.php:34
+#@ sensible-wp
+msgid "Documentation"
+msgstr "Документация"
+
+#: panel/sensiblewp-admin_page.php:38
+#@ sensible-wp
+msgid "Check out our Sensible Documentation to learn how to use Sensible and for tutorials on theme functions. Click the link below."
+msgstr "Проверьте наши разумные документации, чтобы узнать как пользоваться разумным и за уроки на тему функции. Нажмите на ссылку ниже."
+
+#: panel/sensiblewp-admin_page.php:42
+#@ sensible-wp
+msgid "Read Docs"
+msgstr "Чтение документов"
+
+#: panel/sensiblewp-admin_page.php:46
+#@ sensible-wp
+msgid "About ModernThemes"
+msgstr "О ModernThemes"
+
+#: panel/sensiblewp-admin_page.php:50
+#@ sensible-wp
+msgid "Want more to learn more about ModernThemes? Let us help you at www.modernthemes.net."
+msgstr "Хотите узнать больше о ModernThemes больше? Позвольте нам помочь вам в www.modernthemes.net."
+
+#: panel/sensiblewp-admin_page.php:54
+#@ sensible-wp
+msgid "About Us"
+msgstr "О нас"
+
+#: panel/sensiblewp-admin_page.php:58
+#@ sensible-wp
+msgid "Want more features? Go Pro."
+msgstr "Хотите больше возможностей? Go Pro."
+
+#: panel/sensiblewp-admin_page.php:70
+#@ sensible-wp
+msgid "Home Page Slider"
+msgstr "Главная страница ползунок"
+
+#: panel/sensiblewp-admin_page.php:78
+#@ sensible-wp
+msgid "Home Templates + Sections"
+msgstr "Главная шаблоны + разделы"
+
+#: panel/sensiblewp-admin_page.php:86
+#@ sensible-wp
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: panel/sensiblewp-admin_page.php:90
+#@ sensible-wp
+msgid "Turn your website into a powerful eCommerce machine. Sensible Pro is fully compatible with WooCommerce."
+msgstr "Превратите ваш сайт в машину мощной электронной коммерции. Разумный Pro полностью совместим с WooCommerce."
+
+#: panel/sensiblewp-admin_page.php:94
+#@ sensible-wp
+msgid "More Sidebars"
+msgstr "Дополнительные боковые"
+
+#: panel/sensiblewp-admin_page.php:98
+#@ sensible-wp
+msgid "Sometimes you need different sidebars for different pages. We got you covered, offering up to 5 different sidebars."
+msgstr "Иногда вам нужно разные боковые для разных страниц. Мы получили ваши требования, предлагая до 5 различных боковые."
+
+#: panel/sensiblewp-admin_page.php:102
+#@ sensible-wp
+msgid "Access an additional 65 Google fonts with Sensible Pro right in the WordPress customizer."
+msgstr "Доступ к дополнительные 65 Google шрифты с разумным Pro прямо в WordPress настройщик."
+
+#: panel/sensiblewp-admin_page.php:106
+#@ sensible-wp
+msgid "PSD Files"
+msgstr "PSD-файлы"
+
+#: panel/sensiblewp-admin_page.php:110
+#@ sensible-wp
+msgid "Premium versions include PSD files. Preview your own content or showcase a customized version for your clients."
+msgstr "Премиум версии включают в себя PSD файлы. Предварительный свое собственное содержание или витрина настроенной версии для ваших клиентов."
+
+#: panel/sensiblewp-admin_page.php:114
+#@ sensible-wp
+msgid "Free Support"
+msgstr "Бесплатная поддержка"
+
+#: panel/sensiblewp-admin_page.php:118
+#@ sensible-wp
+msgid "Call on us to help you out. Premium themes come with free support that goes directly to our support staff."
+msgstr "Позвоните нам, чтобы помочь вам. Премиум темы приходят с бесплатной поддержки, которая выходит прямо на наш персонал службы поддержки."
+
+#: panel/sensiblewp-admin_page.php:122
+#@ sensible-wp
+msgid "View Pro Version"
+msgstr "Посмотреть версии Pro"
+
+#: single.php:37
+#@ sensible-wp
+msgid "Posted by, "
+msgstr "Написал, "
+
+#: single.php:38
+#@ sensible-wp
+msgid "on "
+msgstr "на "
+
+#: widgets/contact-info.php:12
+#@ sensible-wp
+msgid "Display your contact info"
+msgstr "Отображение вашей контактной информации"
+
+#: widgets/contact-info.php:14
+#@ sensible-wp
+msgid "MT: Contact Info Widget"
+msgstr "MT: Виджет Контактная информация"
+
+#: widgets/contact-info.php:52
+#: widgets/video-widget.php:49
+#@ sensible-wp
+msgid "Title"
+msgstr "Название"
+
+#: widgets/contact-info.php:60
+#@ sensible-wp
+msgid "Enter your address"
+msgstr "Введите свой адрес"
+
+#: widgets/contact-info.php:66
+#@ sensible-wp
+msgid "Enter your phone number"
+msgstr "Введите свой номер телефона"
+
+#: widgets/contact-info.php:72
+#@ sensible-wp
+msgid "Enter your email address"
+msgstr "Введите свой адрес электронной почты"
+
+#: widgets/contact-info.php:170
+#@ sensible-wp
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: widgets/contact-info.php:194
+#@ sensible-wp
+msgid "Address: "
+msgstr "Адрес: "
+
+#: widgets/contact-info.php:204
+#@ sensible-wp
+msgid "Phone: "
+msgstr "Телефон: "
+
+#: widgets/contact-info.php:214
+#@ sensible-wp
+msgid "Email: "
+msgstr "Отправить по электронной почте: "
+
+#: widgets/video-widget.php:13
+#@ sensible-wp
+msgid "Video for your sidebar."
+msgstr "Видео для боковой панели."
+
+#: widgets/video-widget.php:15
+#@ sensible-wp
+msgid "MT: Video Widget"
+msgstr "MT: Видео виджет"
+
+#: widgets/video-widget.php:57
+#@ sensible-wp
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Вставьте URL из видео (только от сети, которая поддерживает помощью oEmbed, как Youtube, Vimeo и т.д.):"
+
+#: widgets/video-widget.php:151
+#@ sensible-wp
+msgid "Video"
+msgstr "Видео"
+
+#: inc/customizer.php:27
+#@ sensible-wp
+msgid "Need a little more Sensible? If you want to see what additional features <a href=\"http://modernthemes.net/wordpress-themes/sensible-pro/\" target=\"_blank\">Sensible Pro</a> has, check them all out right <a href=\"http://modernthemes.net/wordpress-themes/sensible-pro/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/customizer.php:99
+#@ sensible-wp
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/customizer.php:1691
+#@ sensible-wp
+msgid "Widget Background Area"
+msgstr ""
+
+#: inc/customizer.php:2011
+#@ sensible-wp
+msgid "Posts Page Title"
+msgstr "Название должности"
+
+#: inc/customizer.php:1998
+#@ sensible-wp
+msgid "Blog Layout"
+msgstr "Блог макет"
+
+#: inc/customizer.php:2023
+#@ sensible-wp
+msgid "Posts Page Image"
+msgstr "Изображение страницы сообщения"
+
+#: panel/class-tgm-plugin-activation.php:336
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:348
+#, php-format
+#@ sensible-wp
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:358
+#, php-format
+#@ sensible-wp
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:363
+#, php-format
+#@ sensible-wp
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:378
+#, php-format
+#@ sensible-wp
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:388
+#@ sensible-wp
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:401
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:402
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:405
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:524
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:525
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:639
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#: panel/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1121
+#: panel/class-tgm-plugin-activation.php:2833
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ tgmpa
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2194
+#@ tgmpa
+msgid "External Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2220
+#@ tgmpa
+msgid "Active"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2226
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2229
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2232
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ tgmpa
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/class-tgm-plugin-activation.php:2376
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2384
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2392
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2404
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ tgmpa
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2447
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2575
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2614
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2648
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2650
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2686
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2688
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2793
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2819
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:127
+#@ sensible-wp
+msgid "Premium Membership. Premium Experience."
+msgstr "Премиум-членство. Премиум опыт."
+
+#: panel/sensiblewp-admin_page.php:131
+#@ sensible-wp
+msgid "Plugin Compatibility"
+msgstr "Совместимость плагина"
+
+#: panel/sensiblewp-admin_page.php:135
+#@ sensible-wp
+msgid "Use our new free plugins with this theme to add functionality for things like projects, clients, team members and more. Compatible with all premium themes!"
+msgstr "Используйте наши новые бесплатные плагины с этой темой для добавления функциональности для вещей как проектов, клиентов, сотрудников и многое другое. Совместимость с все премиум темы!"
+
+#: panel/sensiblewp-admin_page.php:139
+#@ sensible-wp
+msgid "Agency Designed Themes"
+msgstr "Агентство разработало темы"
+
+#: panel/sensiblewp-admin_page.php:143
+#@ sensible-wp
+msgid "Look as good as can be with our new premium themes. Each one is agency designed with modern styles and professional layouts."
+msgstr "Выглядеть так хорошо, как может быть с нашей новой темы премиум. Каждый из них является Агентством разработана с современными стилями и профессиональных макетов."
+
+#: panel/sensiblewp-admin_page.php:147
+#@ sensible-wp
+msgid "Membership Options"
+msgstr "Варианты членства"
+
+#: panel/sensiblewp-admin_page.php:151
+#@ sensible-wp
+msgid "We have options to fit every budget. Choose between a single theme, or access to all current and future themes for a year, or forever!"
+msgstr "У нас есть варианты на любой бюджет. Выбор между одной темы, или доступ к всем нынешним и будущим темы для год, или навсегда!"
+
+#: panel/sensiblewp-admin_page.php:155
+#@ sensible-wp
+msgid "Access to New Themes"
+msgstr "Доступ к новой темы"
+
+#: panel/sensiblewp-admin_page.php:159
+#@ sensible-wp
+msgid "New themes added monthly! When you purchase a premium membership you get access to all premium themes, with new themes added monthly."
+msgstr "Новые темы добавил ежемесячно! Когда вы покупаете премиум-членства вы получите доступ к все премиум темы, с новыми темами, добавил ежемесячно."
+
+#: panel/sensiblewp-admin_page.php:164
+#@ sensible-wp
+msgid "Get Premium Membership"
+msgstr "Получить премиум членство"
+
+#: panel/sensiblewp-admin_page.php:169
+#@ sensible-wp
+msgid "Changelog"
+msgstr "История изменений"
+
+#: panel/sensiblewp-admin_page.php:197
+#@ sensible-wp
+msgid "1.0.36 - minor bug fixes"
+msgstr "1.0.36 - мелкие исправления ошибка"
+
+#: panel/sensiblewp-admin_page.php:201
+#@ sensible-wp
+msgid "1.0.35 - added zn_CH translation."
+msgstr "1.0.35 - добавлен zn_CH перевод."
+
+#: panel/sensiblewp-admin_page.php:205
+#@ sensible-wp
+msgid "1.0.34 - added option to change blog header background. Go to Appearance -> Customize -> Blog Layout to add Blog Header background."
+msgstr "1.0.34 - добавлена возможность менять фон заголовка блога. Перейти к появлению-> Настройка-> блог макет для добавления фона блога заголовок."
+
+#: inc/customizer.php:251
+#@ sensible-wp
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:910
+#: inc/customizer.php:2100
+#@ sensible-wp
+msgid "Services Columns Width"
+msgstr ""
+
+#: inc/customizer.php:911
+#: inc/customizer.php:2101
+#@ sensible-wp
+msgid "Set the width of the each Services Column. 1 = 100% of the width, 4 = 25% of the width."
+msgstr ""
+
+#: inc/customizer.php:1255
+#: inc/customizer.php:2328
+#@ sensible-wp
+msgid "Team Member Columns Width"
+msgstr ""
+
+#: inc/customizer.php:1256
+#: inc/customizer.php:2329
+#@ sensible-wp
+msgid "Set the width of the each Team Member Column. 1 = 100% of the width, 4 = 25% of the width."
+msgstr ""
+
+#: inc/customizer.php:2312
+#@ sensible-wp
+msgid "Edit your Team Member page section."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ sensible-wp
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: panel/sensiblewp-admin_page.php:62
+#@ sensible-wp
+msgid "Post Format Options"
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:66
+#@ sensible-wp
+msgid "Add unlimited Services and Team Members using post formats instead of Customizer content. Comes with more content options that are easier to use."
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:74
+#@ sensible-wp
+msgid "Add multiple slides to your front page. Create slides from Image post formats and customize the settings in the Theme Customizer. "
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:82
+#@ sensible-wp
+msgid "Add widgets to home sections for a contact form, skill bars, and details spinner. Includes home page templates for Full-Screen Slider and Video Banner."
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:173
+#@ sensible-wp
+msgid "1.1.6 - added Navigation section that was deleted when WordPress switched to 4.3. Removed color options from Menu Locations."
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:177
+#@ sensible-wp
+msgid "1.1.5 - bug fixes"
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:181
+#@ sensible-wp
+msgid "1.1.3 - fixed Social Icons section to make them centered if no text is displayed"
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:185
+#@ sensible-wp
+msgid "1.1.2 - updated Font Awesome icons."
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:189
+#@ sensible-wp
+msgid "1.1.1 - minor bug fixes."
+msgstr ""
+
+#: panel/sensiblewp-admin_page.php:193
+#@ sensible-wp
+msgid "1.1.0 - added pt_BR translation."
+msgstr ""
+

@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine lite v1.5.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-09 20:08+0100\n"
+"Last-Translator: Michael Hebenstreit <mail@michael-hebenstreit.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh
+#: comments.php:11
+#: content.php:12
+#: content.php:54
+#: includes/mh-widgets.php:107
+msgid "0 Comments"
+msgstr "0 Comentaris"
+
+# @ mh
+#: comments.php:11
+#: content.php:12
+#: content.php:54
+#: includes/mh-widgets.php:107
+msgid "1 Comment"
+msgstr "1 Comentari"
+
+# @ mh
+#: comments.php:11
+#: content.php:12
+#: content.php:54
+#: includes/mh-widgets.php:107
+msgid "% Comments"
+msgstr "% Comentaris"
+
+# @ mh
+#: functions.php:105
+msgid "Articles by "
+msgstr "Artícles per "
+
+# @ mh
+#: comments.php:16
+#: content.php:32
+#: functions.php:374
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh
+#: comments.php:16
+#: content.php:31
+#: functions.php:375
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Aquest article està protegit amb contrasenya.Introdueix-la per veure els comentaris."
+
+# @ mh
+#: comments.php:24
+msgid "Leave a comment"
+msgstr "Deixa un comentari."
+
+# @ mh
+#: comments.php:25
+msgid "Your email address will not be published."
+msgstr "La teva adreça no serà publicada."
+
+# @ mh
+#: comments.php:27
+msgid "Comment"
+msgstr "Comentari"
+
+# @ mh
+#: functions.php:34
+msgid "Main Navigation"
+msgstr "Navegació principal"
+
+# @ mh
+#: functions.php:63
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+# @ mh
+#: functions.php:64
+msgid "Home 1"
+msgstr "Home 1"
+
+# @ mh
+#: functions.php:64
+#: functions.php:65
+#: functions.php:66
+#: functions.php:67
+#: functions.php:68
+msgid "Widget area on homepage"
+msgstr "Àrea de giny a la pàgina inicial"
+
+# @ mh
+#: functions.php:65
+msgid "Home 2"
+msgstr "Home 2"
+
+# @ mh
+#: functions.php:66
+msgid "Home 3"
+msgstr "Home 3"
+
+# @ mh
+#: functions.php:67
+msgid "Home 4"
+msgstr "Home 4"
+
+# @ mh
+#: functions.php:68
+msgid "Home 5"
+msgstr "Home 5"
+
+# @ mh
+#: functions.php:71
+msgid "Footer 1"
+msgstr "Peu de pàgina 1"
+
+# @ mh
+#: functions.php:71
+#: functions.php:72
+#: functions.php:73
+#: functions.php:74
+msgid "Footer widget area"
+msgstr "Área de giny a peu de pàgina"
+
+# @ mh
+#: functions.php:72
+msgid "Footer 2"
+msgstr "Peu de pàgina 2"
+
+# @ mh
+#: functions.php:73
+msgid "Footer 3"
+msgstr "Peu de pàgina 3"
+
+# @ mh
+#: functions.php:74
+msgid "Footer 4"
+msgstr "Peu de pàgina 4"
+
+# @ mh
+#: functions.php:175
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+# @ mh
+#: functions.php:179
+msgid "(Edit)"
+msgstr "(Editar)"
+
+# @ mh
+#: functions.php:182
+msgid "Your comment is awaiting moderation."
+msgstr "El teu comentari espera a ser moderat."
+
+# @ mh
+#: functions.php:198
+msgid "Name "
+msgstr "Nom "
+
+# @ mh
+#: functions.php:199
+msgid "Email "
+msgstr "Adreça electrònica "
+
+# @ mh
+#: functions.php:200
+msgid "Website"
+msgstr "Pàgina web"
+
+# @ mh
+#: functions.php:92
+#, php-format
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+# @ mh
+#: content.php:12
+msgid " in "
+msgstr " en "
+
+# @ mh
+#: includes/mh-widgets.php:17
+msgid "MH Facebook Likebox"
+msgstr "MH Facebook Likebox"
+
+# @ mh
+#: includes/mh-widgets.php:48
+#: includes/mh-widgets.php:133
+msgid "Title:"
+msgstr "Títol:"
+
+# @ mh
+#: includes/mh-widgets.php:52
+msgid "Facebook Page URL:"
+msgstr "URL de la pàgina de Facebook:"
+
+# @ mh
+#: includes/mh-widgets.php:56
+msgid "Width:"
+msgstr "Ample:"
+
+# @ mh
+#: includes/mh-widgets.php:60
+msgid "Height:"
+msgstr "Alçada:"
+
+# @ mh
+#: includes/mh-widgets.php:72
+msgid "MH Custom Posts"
+msgstr "MH d'articles personalitzats"
+
+# @ mh
+#: includes/mh-widgets.php:177
+msgid "MH Slider Widget (Homepage)"
+msgstr "MH del giny del slider (Pàgina d'inici)"
+
+# @ mh
+#: includes/mh-shortcodes.php:30
+msgid "Advertisement"
+msgstr "Publicitat"
+
+# @ mh
+#: includes/mh-options.php:23
+msgid "General Options"
+msgstr "Opcions generals"
+
+# @ mh
+#: includes/mh-options.php:40
+msgid "Custom CSS"
+msgstr "Personalizació CSS"
+
+# @ mh
+#: includes/mh-options.php:36
+msgid "Scale background image to full size"
+msgstr "Escalar la imatge del fons a mida completa"
+
+# @ mh
+#: includes/mh-options.php:38
+msgid "Default position of sidebar"
+msgstr "Posició estàndar de la barra lateral"
+
+# @ mh
+#: includes/mh-options.php:38
+#: includes/mh-options.php:59
+msgid "Left"
+msgstr "Esquerra"
+
+# @ mh
+#: includes/mh-options.php:38
+#: includes/mh-options.php:60
+msgid "Right"
+msgstr "Dreta"
+
+# @ mh
+#: includes/mh-options.php:39
+msgid "Custom excerpt length (Words)"
+msgstr "Longitut del fragment personalitzat (paraules)"
+
+# @ mh
+#: includes/mh-options.php:41
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Codi de seguiment (per exemple Google Analytics)"
+
+# @ mh
+#: content.php:12
+msgid "Posted on "
+msgstr "Publicat a "
+
+# @ mh
+#: content.php:12
+msgid " by "
+msgstr " per "
+
+# @ mh
+#: functions.php:341
+msgid "Related Posts"
+msgstr "Articles relacionats"
+
+# @ mh
+#: functions.php:222
+msgid "Subheading (will be displayed below post title)"
+msgstr "Subtítol (es mostrarà sota el títol de l&rsquo;article)"
+
+# @ mh
+#: functions.php:271
+msgid "About "
+msgstr "Sobre "
+
+# @ mh
+#: functions.php:274
+msgid "More articles written by "
+msgstr "Més articles escrits per "
+
+# @ mh
+#: functions.php:274
+msgid "More Posts"
+msgstr "Més articles"
+
+# @ mh
+#: includes/mh-widgets.php:16
+msgid "Widget to display a Facebook likebox in your sidebar"
+msgstr "Giny per mostrar una capsa \"me gusta\" de Facebook a la barra lateral"
+
+# @ mh
+#: includes/mh-widgets.php:44
+msgid "Connect with us on Facebook"
+msgstr "Connecta amb mi a Facebook"
+
+# @ mh
+#: includes/mh-widgets.php:71
+msgid "Custom Posts Widget to display posts based on categories or tags"
+msgstr "Giny per mostrar articles populars basats en categories o etiquetes"
+
+# @ mh
+#: includes/mh-widgets.php:176
+msgid "Slider widget for use on homepage templates"
+msgstr "Giny del slider per fer servir a plantilles de la pàgina d&rsquo;inici"
+
+# @ mh
+#: functions.php:213
+msgid "Post options"
+msgstr "Opcions"
+
+# @ mh
+#: searchform.php:3
+msgid "To search, type and hit enter"
+msgstr "Per cercar escriu i prem intro"
+
+# @ mh
+#: comments.php:11
+msgid " to "
+msgstr " per "
+
+# @ mh
+#: content-none.php:7
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Ho sento, no trobem res. Prova amb paraules diferents"
+
+# @ mh
+#: content-none.php:9
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no ho trobem."
+
+# @ mh
+#: includes/mh-options.php:37
+msgid "Disable comments on pages"
+msgstr "Desactivar comentaris en pàgines"
+
+# @ mh
+#: comments.php:19
+msgid "Comments are disabled"
+msgstr "Els comentaris estan desactivats"
+
+# @ mh
+#: functions.php:310
+msgid "&larr; Previous image"
+msgstr "&larr; Imatge prèvia"
+
+# @ mh
+#: functions.php:312
+msgid "&larr; Previous post"
+msgstr "&larr; Entrada prèvia"
+
+# @ mh
+#: functions.php:317
+msgid "Next image &rarr;"
+msgstr "Imatge següent &rarr;"
+
+# @ mh
+#: functions.php:319
+msgid "Next post &rarr;"
+msgstr "Post següent &rarr;"
+
+# @ mh
+#: search.php:14
+msgid "Search Results for "
+msgstr "Resultats per "
+
+# @ mh
+#: content-none.php:13
+msgid "Latest posts"
+msgstr "Darreres entrades"
+
+# @ mh
+#: functions.php:117
+msgid "Page not found (404)"
+msgstr "Pàgina no trobada (404)"
+
+# @ mh
+#: functions.php:69
+msgid "Posts 1"
+msgstr "Entrades 1"
+
+# @ mh
+#: functions.php:69
+msgid "Widget area above single post content"
+msgstr ""
+
+# @ mh
+#: functions.php:70
+msgid "Posts 2"
+msgstr "Entrades 2"
+
+# @ mh
+#: functions.php:70
+msgid "Widget area below single post content"
+msgstr ""
+
+# @ mh
+#: functions.php:303
+msgid "&larr; Back to post"
+msgstr "&larr; Torna a l'entrada"
+
+# @ mh
+#: functions.php:422
+msgid "Theme Support: Get started!"
+msgstr ""
+
+# @ mh
+#: includes/mh-widgets.php:137
+#: includes/mh-widgets.php:229
+msgid "Select a Category:"
+msgstr "Selecciona una categoria:"
+
+# @ mh
+#: includes/mh-widgets.php:139
+#: includes/mh-widgets.php:231
+msgid "All"
+msgstr "Tot"
+
+# @ mh
+#: includes/mh-widgets.php:152
+#: includes/mh-widgets.php:244
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Filtrar entrades per etiquetes (p.ex.: olors)"
+
+# @ mh
+#: includes/mh-widgets.php:156
+#: includes/mh-widgets.php:248
+msgid "Show:"
+msgstr "Mostra:"
+
+# @ mh
+#: includes/mh-widgets.php:157
+#: includes/mh-widgets.php:161
+#: includes/mh-widgets.php:249
+#: includes/mh-widgets.php:253
+msgid "Posts"
+msgstr "Entrades"
+
+# @ mh
+#: includes/mh-widgets.php:160
+#: includes/mh-widgets.php:252
+msgid "Skip:"
+msgstr "Salta:"
+
+# @ mh
+#: includes/mh-widgets.php:165
+#: includes/mh-widgets.php:257
+msgid "Ignore Sticky Posts"
+msgstr ""
+
